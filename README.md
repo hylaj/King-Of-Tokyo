@@ -1,6 +1,8 @@
 # King of Tokyo
 
-**King of Tokyo** is a multiplayer web game where you play as a giant monster fighting for dominance over the city. Roll dice, buy ability cards, and battle other players to claim victory! It's an implementation of the **King of Tokyo** board game (Richard Garfield, [IELLO](https://iellogames.com/games/king-of-tokyo/)), built in Python with the **Django** framework.
+**King of Tokyo** is a multiplayer web game where you play as a giant monster fighting for dominance over the city. Roll dice, buy ability cards, and battle other players to claim victory! 
+
+This web game is an implementation of the **King of Tokyo** board game (Richard Garfield, [IELLO](https://iellogames.com/games/king-of-tokyo/)), built in Python with the **Django** framework.
 
 
 <img width="1917" height="866" alt="start" src="https://github.com/user-attachments/assets/c4351879-d98f-42a3-bafe-6e36f03024aa" />
