@@ -21,6 +21,7 @@ This project is an implementation of the **King of Tokyo** board game (Richard G
 - Django
 - SQLite
 - HTML/CSS
+- Bootstrap 5
 
 ## Game Rules (Summary)
 
